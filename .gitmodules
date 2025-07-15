@@ -1,0 +1,6 @@
+[submodule "stow"]
+	path = stow
+	url = https://git.savannah.gnu.org/git/stow.git
+[submodule "mask"]
+	path = mask
+	url = git@github.com:jacobdeichert/mask.git
